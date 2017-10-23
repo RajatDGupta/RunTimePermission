@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RunTimePermission</string>
+
+    <string name="permission_pref">PERMISSION_PREFERENCE</string>
+    <string name="permission_camera">PERMISSION_CAMERA</string>
+    <string name="permission_contact">PERMISSION_CONTACT</string>
+    <string name="permission_storage">PERMISSION_STORAGE</string>
+
+</resources>
